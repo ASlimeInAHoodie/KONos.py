@@ -1,0 +1,44 @@
+disheartened:
+  name: DISHEARTENED.LTD
+  price: 22.36
+  weight: 2.412
+elixirsoft:
+  name: ELIXIRSOFT.MEDI
+  price: 54.63
+  weight: 13.502
+fusiondynamics:
+  name: FUSIONDYNAMICS.CORP
+  price: 12.4
+  weight: 14.762
+goldscale:
+  name: GOLDSCALE.ORG
+  price: 73.5
+  weight: 5.044
+luminavista:
+  name: LUMINAVISTA.IND
+  price: 3.48
+  weight: 9.449
+nexusgen:
+  name: NEXUSGEN.INNO
+  price: 5.43
+  weight: 5.249
+pear:
+  name: PEAR.CORP
+  price: 170.3
+  weight: 10.701
+quantumglobe:
+  name: QUANTUMGLOBE.ENT
+  price: 11.07
+  weight: 11.312
+stellartech:
+  name: STELLARTECH.SOL
+  price: 12.35
+  weight: 11.128
+swiftwave:
+  name: SWIFTWAVE.SYS
+  price: 16.77
+  weight: 8.565
+zephyrsync:
+  name: ZEPHYRSYNC.LABS
+  price: 131.75
+  weight: 11.421

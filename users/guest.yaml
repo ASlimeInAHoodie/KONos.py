@@ -1,0 +1,16 @@
+login:
+  password: password
+  username: guest
+navbank:
+  balance: 5
+  history: []
+programs:
+- SCARAR.net
+- EDIT.txt
+- STOCK.broker
+stockbroker:
+  stocks:
+    apple:
+      name: Apple
+      purchasedprice: 10
+      quantity: 10

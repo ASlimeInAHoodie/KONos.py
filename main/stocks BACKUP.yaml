@@ -1,0 +1,44 @@
+pear:
+  name: "PEAR.CORP"
+  price: 100
+  weight: 10
+goldscale:
+  name: "GOLDSCALE.ORG"
+  price: 50
+  weight: 5
+disheartened:
+  name: "DISHEARTENED.LTD"
+  price: 5
+  weight: 2
+stellartech:
+  name: "STELLARTECH.SOL"
+  price: 10
+  weight: 10
+quantumglobe:
+  name: "QUANTUMGLOBE.ENT"
+  price: 10
+  weight: 11
+elixirsoft:
+  name: "ELIXIRSOFT.MEDI"
+  price: 40
+  weight: 12
+nexusgen:
+  name: "NEXUSGEN.INNO"
+  price: 3
+  weight: 5
+luminavista:
+  name: "LUMINAVISTA.IND"
+  price: 3
+  weight: 8
+swiftwave:
+  name: "SWIFTWAVE.SYS"
+  price: 16
+  weight: 8
+fusiondynamics:
+  name: "FUSIONDYNAMICS.CORP"
+  price: 10
+  weight: 13
+zephyrsync:
+  name: "ZEPHYRSYNC.LABS"
+  price: 80
+  weight: 11
