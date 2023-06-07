@@ -34,9 +34,9 @@ BG_RED = '\033[41m' # Red
 import main.updatestocks as updatestocks
 import apps
 # Required variables
-skip = True
-logindetals = ["guest", "password"] # Guest Account for Debugging
-#logindetals = [False, False] # Enable login browser
+skip = False
+#logindetals = ["guest", "password"] # Guest Account for Debugging
+logindetals = [False, False] # Enable login browser
 prevtime = time.time()
 programs = []
 
