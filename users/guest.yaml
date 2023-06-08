@@ -7,7 +7,6 @@ navbank:
 programs:
 - SCARAR.net
 - EDIT.txt
-- STOCK.broker
 stockbroker:
   stocks:
     apple:
